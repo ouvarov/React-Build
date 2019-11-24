@@ -2,8 +2,15 @@
 
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './App.sass';
 
+const getArray = () => {
+    const array = fetch('https://drive.google.com/open?id=193Tn_sphaeTOC-KvGtfvLpif7lE9MLxA');
+    const arrayJson = array.text;
+
+    console.log(arrayJson);
+};
+getArray();
 function App() {
     return (
         <div className="App">
