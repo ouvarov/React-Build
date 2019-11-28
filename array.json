@@ -1,6 +1,6 @@
 {
        "menu":[
-              { "link":"f", "item":"оловна" },
+              { "link":"f", "item":"головна" },
               { "link":"ff", "item":"чому ми" },
               { "link":"fff", "item":"меню" },
               { "link":"ffff", "item":"медіа" },
