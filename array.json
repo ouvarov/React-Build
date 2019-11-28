@@ -1,5 +1,5 @@
 {
-            menu: [
+        "menu":[
                 { link: 'f', name: 'головна' },
                 { link: 'f2', name: 'чому ми' },
                 { link: 'f3', name: 'меню' },
