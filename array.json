@@ -1,5 +1,4 @@
-{
-  menu : [
+const users = [
             { link: 'f', name: 'головна' },
             { link: 'f2', name: 'чому ми' },
             { link: 'f3', name: 'меню' },
@@ -9,5 +8,4 @@
             { link: 'f7', name: 'ми на мапі' },
             { link: 'f8', name: 'новини' },
             { link: 'f89', name: 'напишіть нам' },
-        ]
-}
+        ];
