@@ -1,8 +1,13 @@
 {
-       "pets":[
-        { "animal":"dog", "name":"Fido" },
-        { "animal":"cat", "name":"Felix" },
-        { "animal":"hamster", "name":"Lightning" },
-              { "animal":"hamster", "name":"Lightning" },{ "animal":"hamster", "name":"Lightning" },{ "animal":"hamster", "name":"Lightning" },{ "animal":"hamster", "name":"Lightning" },{ "animal":"hamster", "name":"Lightning" },{ "animal":"hamster", "name":"Lightning" }
+       "menu":[
+              { "link":"f", "item":"оловна" },
+              { "link":"ff", "item":"чому ми" },
+              { "link":"fff", "item":"меню" },
+              { "link":"ffff", "item":"медіа" },
+              { "link":"a", "item":"сервіс" },
+              { "link":"aa", "item":"кухарі" },
+              { "link":"aaa", "item":"ми на мапі" },
+              { "link":"aaaa", "item":"новини" },
+              { "link":"s", "item":"напишіть нам" }
     ]
  }
