@@ -1,5 +1,5 @@
 {
-       "menu":[
+       "nav":[
               { "link":"f", "item":"головна" },
               { "link":"ff", "item":"чому ми" },
               { "link":"fff", "item":"меню" },
