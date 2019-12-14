@@ -10,6 +10,7 @@
               { "link":"aaaa", "item":"новини" },
               { "link":"s", "item":"напишіть нам" }
        ],
+
        "menu":[
             {
               "sandwich":[
@@ -18,17 +19,79 @@
                             "main-icon":"dsd",
                             "title":"sandwich",
                             "description":"sandwich"
-                     },
-                     {
-                     "menu-item":[
-                           { 
-                                   "icon":"sandwich",
-                                   "price":"dsd",
-                                   "title":"sandwich",
-                                   "sub-title":"sandwich"
-                            }
-                            ],
-                     }
-              ]
-              
-            }
+                       },
+                       {
+                              "menu-item":[
+                                     {
+                                          "price":"sandwich",
+                                          "main-icon":"dsd",
+                                          "title":"sandwich",
+                                          "description":"sandwich"
+                                     }
+                              ]
+                       }
+                   ]
+             },
+             {
+              "soup":[
+                     { 
+                            "type":"sandwich",
+                            "main-icon":"dsd",
+                            "title":"sandwich",
+                            "description":"sandwich"
+                       },
+                       {
+                              "menu-item":[
+                                     {
+                                          "price":"sandwich",
+                                          "main-icon":"dsd",
+                                          "title":"sandwich",
+                                          "description":"sandwich"
+                                     }
+                              ]
+                       }
+                   ]
+             },
+             {
+              "salad":[
+                     { 
+                            "type":"sandwich",
+                            "main-icon":"dsd",
+                            "title":"sandwich",
+                            "description":"sandwich"
+                       },
+                       {
+                              "menu-item":[
+                                     {
+                                          "price":"sandwich",
+                                          "main-icon":"dsd",
+                                          "title":"sandwich",
+                                          "description":"sandwich"
+                                     }
+                              ]
+                       }
+                   ]
+             },
+{
+              "dessert":[
+                     { 
+                            "type":"sandwich",
+                            "main-icon":"dsd",
+                            "title":"sandwich",
+                            "description":"sandwich"
+                       },
+                       {
+                              "menu-item":[
+                                     {
+                                          "price":"sandwich",
+                                          "main-icon":"dsd",
+                                          "title":"sandwich",
+                                          "description":"sandwich"
+                                     }
+                              ]
+                       }
+                   ]
+             }
+    ]
+
+}
