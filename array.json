@@ -10,7 +10,6 @@
               { "link":"aaaa", "item":"новини" },
               { "link":"s", "item":"напишіть нам" }
        ],
-
        "menu":[
             {
               "sandwich":[
@@ -18,80 +17,76 @@
                             "type":"sandwich",
                             "main-icon":"dsd",
                             "title":"sandwich",
-                            "description":"sandwich"
-                       },
-                       {
-                              "menu-item":[
-                                     {
+                            "description":"sandwich",
+                            "menu-item":[
+                                   {
                                           "price":"sandwich",
                                           "main-icon":"dsd",
                                           "title":"sandwich",
                                           "description":"sandwich"
-                                     }
-                              ]
+                                   }
+                            ]
                        }
+                      
                    ]
-             },
-             {
+              },
+              {
               "soup":[
                      { 
                             "type":"sandwich",
                             "main-icon":"dsd",
                             "title":"sandwich",
-                            "description":"sandwich"
-                       },
-                       {
-                              "menu-item":[
-                                     {
+                            "description":"sandwich",
+                            "menu-item":[
+                                   {
                                           "price":"sandwich",
                                           "main-icon":"dsd",
                                           "title":"sandwich",
                                           "description":"sandwich"
-                                     }
-                              ]
+                                   }
+                            ]
                        }
+                      
                    ]
-             },
-             {
+              },
+              {
               "salad":[
                      { 
                             "type":"sandwich",
                             "main-icon":"dsd",
                             "title":"sandwich",
-                            "description":"sandwich"
-                       },
-                       {
-                              "menu-item":[
-                                     {
+                            "description":"sandwich",
+                            "menu-item":[
+                                   {
                                           "price":"sandwich",
                                           "main-icon":"dsd",
                                           "title":"sandwich",
                                           "description":"sandwich"
-                                     }
-                              ]
+                                   }
+                            ]
                        }
+                      
                    ]
-             },
-{
+              },
+              {
               "dessert":[
                      { 
                             "type":"sandwich",
                             "main-icon":"dsd",
                             "title":"sandwich",
-                            "description":"sandwich"
-                       },
-                       {
-                              "menu-item":[
-                                     {
+                            "description":"sandwich",
+                            "menu-item":[
+                                   {
                                           "price":"sandwich",
                                           "main-icon":"dsd",
                                           "title":"sandwich",
                                           "description":"sandwich"
-                                     }
-                              ]
+                                   }
+                            ]
                        }
+                      
                    ]
-             }
+           }
     ]
 
 }
