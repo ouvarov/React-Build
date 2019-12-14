@@ -9,5 +9,40 @@
               { "link":"aaa", "item":"ми на мапі" },
               { "link":"aaaa", "item":"новини" },
               { "link":"s", "item":"напишіть нам" }
+       ],
+       "menu":[
+              "sandwich":[
+                     { 
+                            "type":"sandwich",
+                            "main-icon":"dsd",
+                            "title":"sandwich",
+                            "description":"sandwich",
+                     },
+                     "menu-item":[
+                           { 
+                                   "icon":"sandwich",
+                                   "price":"dsd",
+                                   "title":"sandwich",
+                                   "sub-title":"sandwich",
+                            }, 
+                     ]
+              ]
+              "soup":[
+                     { 
+                           "type":"soup",
+                            "item":"головна" 
+                     },
+              ]
+              "salad":[
+                     { 
+                            "type":"salad",
+                            "item":"головна" },
+              ]
+              "dessert":[
+                     {
+                            "dessert":"sandwich",
+                            "item":"головна" 
+                     },
+              ]
     ]
  }
