@@ -11,8 +11,7 @@
               { "link":"s", "item":"напишіть нам" }
        ],
        "menu":[
-            {
-              "sandwich":[
+           
                      { 
                             "type":"sandwich",
                             "main-icon":"dsd",
@@ -38,12 +37,9 @@
                                           "description":"sandwich"
                                    }
                             ]
-                       }
                       
-                   ]
               },
-              {
-              "soup":[
+           
                      { 
                             "type":"soup",
                             "main-icon":"dsd",
@@ -69,13 +65,10 @@
                                           "description":"Крем-суп з молодого горошку з додаванням васаби Вага 250 г"
                                    }
                             ]
-                       }
-                      
-                   ]
+                    
               },
               {
-              "salad":[
-                     { 
+             
                             "type":"salad",
                             "main-icon":"dsd",
                             "title":"Fred&Salad",
@@ -100,13 +93,10 @@
                                           "description":"Салат із запеченою куркою, томатами  та авокадо. Вага 300 г"
                                    }
                             ]
-                       }
-                      
-                   ]
+                       
               },
               {
-              "dessert":[
-                     { 
+             
                             "type":"dessert",
                             "main-icon":"dsd",
                             "title":"Fred&Dessert",
@@ -131,9 +121,7 @@
                                           "description":"Ніжні еклери з заварним кремом"
                                    }
                             ]
-                       }
-                      
-                   ]
+                       
            }
     ]
 
