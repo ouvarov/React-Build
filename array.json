@@ -16,23 +16,23 @@
                      { 
                             "type":"sandwich",
                             "main-icon":"dsd",
-                            "title":"sandwich",
-                            "description":"sandwich",
+                            "title":"Fred&Sandwich",
+                            "sub-title":"сендвічі та багети",
                             "menu-item":[
                                    {
-                                          "price":"sandwich",
+                                          "price":"40 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"MOZZARELLA& TOMATO",
+                                          "description":"Сэндвіч з прикопченою моцареллою, томатами та домашнім песто Вага 220 г"
                                    },
                                    {
-                                          "price":"sandwich",
+                                          "price":"35 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"ZUCCINI&EGGS",
+                                          "description":"Житній багет з маринованим кабачком, яйцем та томатами Вага 240 г"
                                    },
                                    {
-                                          "price":"sandwich",
+                                          "price":"30 грн",
                                           "main-icon":"dsd",
                                           "title":"sandwich",
                                           "description":"sandwich"
@@ -45,28 +45,28 @@
               {
               "soup":[
                      { 
-                            "type":"sandwich",
+                            "type":"soup",
                             "main-icon":"dsd",
-                            "title":"sandwich",
-                            "description":"sandwich",
+                            "title":"Fred&Soup",
+                            "sub-title":"холодні супи та крем-супи",
                             "menu-item":[
                                    {
-                                          "price":"sandwich",
+                                          "price":"25 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"PEAS&BACON",
+                                          "description":"Гороховий крем-суп з куркумою, беконом  та хрустким нутом Вага 250 г"
                                    },
                                    {
-                                          "price":"sandwich",
+                                          "price":"30 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"MUSHROOM& TRUFFLE",
+                                          "description":"Грибний крем-суп з трюфельним ароматом і сухариками Вага 250 г"
                                    },
                                    {
-                                          "price":"sandwich",
+                                          "price":"35 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"PEAS&WASABI",
+                                          "description":"Крем-суп з молодого горошку з додаванням васаби Вага 250 г"
                                    }
                             ]
                        }
@@ -76,28 +76,28 @@
               {
               "salad":[
                      { 
-                            "type":"sandwich",
+                            "type":"salad",
                             "main-icon":"dsd",
-                            "title":"sandwich",
-                            "description":"sandwich",
+                            "title":"Fred&Salad",
+                            "sub-title":"овочеві та м’ясні салати",
                             "menu-item":[
                                    {
-                                          "price":"sandwich",
+                                          "price":"40 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"ASIAN&CELERY",
+                                          "description":"Фітнес-салат з селерою, яблуком, морквою та копченим тофу. Вага 300 г"
                                    },
                                    {
-                                          "price":"sandwich",
+                                          "price":"60 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"FRED&BEET",
+                                          "description":"Салат із запеченим буряком з сиром рікотта та горіхами. Вага 300 г"
                                    },
                                    {
-                                          "price":"sandwich",
+                                          "price":"50 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"CHICKEN&AVOCADO",
+                                          "description":"Салат із запеченою куркою, томатами  та авокадо. Вага 300 г"
                                    }
                             ]
                        }
@@ -107,28 +107,28 @@
               {
               "dessert":[
                      { 
-                            "type":"sandwich",
+                            "type":"dessert",
                             "main-icon":"dsd",
-                            "title":"sandwich",
-                            "description":"sandwich",
+                            "title":"Fred&Dessert",
+                            "sub-title":"різноманітні десерти",
                             "menu-item":[
                                    {
-                                          "price":"sandwich",
+                                          "price":"25 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"YOGURT",
+                                          "description":"Домашній йогурт з варенням, пластівцями та сезонними ягодами"
                                    },
                                    {
-                                          "price":"sandwich",
+                                          "price":"20 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"NAPOLEON",
+                                          "description":"Наполеон із заварним кремом та томленою грушею"
                                    },
                                    {
-                                          "price":"sandwich",
+                                          "price":"7 грн",
                                           "main-icon":"dsd",
-                                          "title":"sandwich",
-                                          "description":"sandwich"
+                                          "title":"ECLAIR",
+                                          "description":"Ніжні еклери з заварним кремом"
                                    }
                             ]
                        }
