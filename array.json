@@ -14,7 +14,7 @@
            
                      { 
                             "type":"sandwich",
-                            "mainIcon":"../media/sandwich_main.2b3583f0.png",
+                            "mainIcon":"(/static/media/sandwich_main.2b3583f0.png",
                             "title":"Fred&Sandwich",
                             "subTitle":"сендвічі та багети",
                             "menuItem":[
