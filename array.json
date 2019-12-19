@@ -48,7 +48,7 @@
                             "menuItem":[
                                    {
                                           "price":"25 грн",
-                                          "menuIcon":"images/portfolio/peas_soup.png",
+                                          "menuIcon":"images/portfolio/peasbacon_soup.png",
                                           "name":"PEAS&BACON",
                                           "description":"Гороховий крем-суп з куркумою, беконом  та хрустким нутом Вага 250 г"
                                    },
@@ -110,13 +110,13 @@
                                    },
                                    {
                                           "price":"20 грн",
-                                          "menuIcon":"images/portfolio/napoleon_dessert.png",
+                                          "menuIcon":"images/portfolio/feed_dessert.png",
                                           "name":"NAPOLEON",
                                           "description":"Наполеон із заварним кремом та томленою грушею"
                                    },
                                    {
                                           "price":"7 грн",
-                                          "menuIcon":"images/portfolio/eclair_dessert.png",
+                                          "menuIcon":"images/portfolio/eklair_dessert.png",
                                           "name":"ECLAIR",
                                           "description":"Ніжні еклери з заварним кремом"
                                    }
