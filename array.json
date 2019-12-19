@@ -14,7 +14,7 @@
            
                      { 
                             "type":"sandwich",
-                            "mainIcon":"(/static/media/sandwich_main.2b3583f0.png",
+                            "mainIcon":"images/portfolio/sandwich_main.png",
                             "title":"Fred&Sandwich",
                             "subTitle":"сендвічі та багети",
                             "menuItem":[
@@ -42,7 +42,7 @@
            
                      { 
                             "type":"soup",
-                            "mainIcon":"dsd",
+                            "mainIcon":"images/portfolio/soup_main.png",
                             "title":"Fred&Soup",
                             "subTitle":"холодні супи та крем-супи",
                             "menuItem":[
@@ -70,7 +70,7 @@
               {
              
                             "type":"salad",
-                            "mainIcon":"dsd",
+                            "mainIcon":"images/portfolio/salad_main.png",
                             "title":"Fred&Salad",
                             "subTitle":"овочеві та м’ясні салати",
                             "menuItem":[
@@ -98,7 +98,7 @@
               {
              
                             "type":"dessert",
-                            "mainIcon":"dsd",
+                            "mainIcon":"images/portfolio/dessert_main.png",
                             "title":"Fred&Dessert",
                             "subTitle":"різноманітні десерти",
                             "menuItem":[
